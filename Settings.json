@@ -244,7 +244,7 @@
       "searchprovider-20",
       "I - TotalHash",
       "http://totalhash.com/search/ip:TESTSEARCH",
-      true,
+      false,
       true,
       1,
       false,
