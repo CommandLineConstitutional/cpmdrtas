@@ -911,7 +911,19 @@
       null,
       false,
       null
-    ]
+    ],
+    [
+      "searchprovider-76",
+      "H - FileScan.io",
+      "https://www.filescan.io/search-result?query=TESTB64SEARCH",
+      true,
+      false,
+      4,
+      false,
+      null,
+      false,
+      null
+    ],
   ],
   "groups": [
     [
