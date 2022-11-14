@@ -923,6 +923,18 @@
             null,
             false,
             null
+        ],
+        [
+            "searchprovider-77",
+            "H - EchoTrail",
+            "https://www.echotrail.io/insights/search/?q=TESTSEARCH",
+            true,
+            false,
+            4,
+            false,
+            null,
+            false,
+            null
         ]
     ],
     "groups": [
